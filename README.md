@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cybersoft**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **cuneyt7088@gmail.com**
 
