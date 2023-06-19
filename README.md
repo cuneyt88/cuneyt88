@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cüneyt</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">A Mobile/Frontend Developer</h3>
 <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
 
 
