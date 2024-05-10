@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessimsek-4318&label=Profile%20views&color=0e75b6&style=flat" alt="cuneyt88" /> </p>
 
-- 🔭 I’m currently working on **Cybersoft**
+- 🔭 I’m currently working at **Cybersoft**
+
+- 👨‍💻 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React Native**
 
